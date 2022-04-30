@@ -23,12 +23,12 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Contact`,
-            slug: `/contact`,
-          },
-          {
             title: `About`,
             slug: `/about`,
+          },
+          {
+            title: `Contact`,
+            slug: `/contact`,
           },
           {
             title: `Blog`,
