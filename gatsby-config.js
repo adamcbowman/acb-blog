@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://www.adambowman.tech`,
     siteDescription: `ACB Consulting is a web development company for small businesses.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
     author: `Adam Bowman`,
   },
   plugins: [
